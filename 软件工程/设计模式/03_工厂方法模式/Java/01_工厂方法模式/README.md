@@ -62,8 +62,8 @@ classDiagram
     }
     <<Interface>> Logger
     class LoggerFactory {
-        + createLogger(String type) Logger #123;abstract#125;
-        + createLogger(LogType type) Logger #123;abstract#125;
+        + createLogger(type : String) Logger #123;abstract#125;
+        + createLogger(type : LogType) Logger #123;abstract#125;
     }
     <<Interface>> LoggerFactory
     class DatabaseLogger
@@ -107,7 +107,7 @@ classDiagram
     }
     <<Interface>> Logger
     class LoggerFactory {
-        + createLogger(Class&lt;? extends Logger&gt; clazz) Logger #123;abstract#125;
+        + createLogger(clazz : Class&lt;? extends Logger&gt; ) Logger #123;abstract#125;
     }
     <<Interface>> LoggerFactory
     class DatabaseLogger

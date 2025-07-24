@@ -23,7 +23,7 @@ classDiagram
     }
     <<Abstract>> Chart
     class ChartFactory {
-        + createChart(type : String ) Chart #123;static#125;
+        + createChart(type : String) Chart #123;static#125;
     }
     class LineChart
     class HistogramChart
@@ -58,7 +58,7 @@ config:
 ---
 classDiagram
     class Chart  {
-        + createChart(String type) Chart #123;static#125;
+        + createChart(type : String) Chart #123;static#125;
         + display() void  #123;abstract#125;
     }
     <<Abstract>> Chart
