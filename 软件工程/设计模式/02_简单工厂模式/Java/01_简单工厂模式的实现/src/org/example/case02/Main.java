@@ -1,8 +1,5 @@
 package org.example.case02;
 
-import org.example.case01.Chart;
-import org.example.case01.ChartFactory;
-
 /**
  * 简单工厂模式：完整版
  */
