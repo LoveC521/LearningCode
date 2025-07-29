@@ -3,7 +3,7 @@
 ## 建造者模式的实现方式一
 在该实现方式中，Builder 类声明了两类方法，Director 将 Builder 声明为 construct 方法的形参，并将 Product 对象作为 construct 方法的返回值。
 
-详细请参考源代码：[src/org/example/case01/Client.java](./src/org/example/case01/Client.java)
+详细请参考源代码：[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
 
 其 UML 类图如下所示：
 ```mermaid
@@ -48,7 +48,7 @@ classDiagram
 ## 建造者模式的实现方式二
 在该实现方式中，Builder 类仅声明 buildPartX() 方法，Director 将 Builder 声明为 construct 方法的形参，并将 construct 方法没有返回值。
 
-详细请参考源代码：[src/org/example/case02/Client.java](./src/org/example/case02/Client.java)
+详细请参考源代码：[src/org/example/case02/Main.java](./src/org/example/case02/Main.java)
 
 > 案例改编自 《设计模式：可复用面向对象软件的基础》—— Erich Gamma 著 —— 李英军 译 —— 第 3.2.2 节
 
