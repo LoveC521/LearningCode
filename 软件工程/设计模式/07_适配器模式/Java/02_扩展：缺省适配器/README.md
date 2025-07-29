@@ -11,7 +11,7 @@
 
 为了便于开发人员使用，请使用缺省适配器模式进行代码设计。
 
-详细请参考源代码：详细请参考源代码：[src/org/example/Main.java](./src/org/example/Main.java)
+详细请参考源代码：详细请参考源代码：[src/org/example/Main.java](src/org/example/Main.java)
 
 其 UML 类图如下所示：
 ```mermaid
