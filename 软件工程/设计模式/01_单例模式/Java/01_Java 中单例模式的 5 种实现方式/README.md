@@ -1,7 +1,7 @@
 # README
 ## 单例模式的实现
 演示以下 5 种单例模式的实现：
-+ 饿汉式（静态常量）：详细请参考源代码 [src/org/example/case01/Main.java](src/org/example/case01/Main.java)
++ 饿汉式（静态常量）：详细请参考源代码 [src/org/example/org.example.case01/Main.java](src/org/example/case01/Main.java)
     + 特点：实现简单，但不支持懒加载。
 + 饿汉式（枚举类）：详细请参考源代码 [src/org/example/case02/Main.java](src/org/example/case02/Main.java)
     + 特点：实现简单，可以防止反射或反序列化对单例模式的破坏，但不支持懒加载。

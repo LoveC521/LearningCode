@@ -3,7 +3,7 @@
 + 透明装饰模式
 + 半透明装饰模式
 ## 透明装饰模式的实现
-详细请参考源代码：[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
+详细请参考源代码：[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 第 12.3 节
 
 其 UML 类图如下所示：

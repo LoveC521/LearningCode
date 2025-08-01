@@ -1,7 +1,7 @@
 # README
 ## 原型模式的实现
 演示以下 2 种原型模式的实现：
-+ 浅克隆实现：详细请参考源代码：[src/org/example/case01/Main.java](src/org/example/case01/Main.java)
++ 浅克隆实现：详细请参考源代码：[src/org/example/org.example.case01/Main.java](src/org/example/case01/Main.java)
 + 深克隆实现：详细请参考源代码：[src/org/example/case02/Main.java](src/org/example/case02/Main.java)
 
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 第 7.3 节

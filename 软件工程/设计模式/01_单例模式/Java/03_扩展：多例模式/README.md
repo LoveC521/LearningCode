@@ -1,7 +1,7 @@
 # README
 ## 多例模式的实现
 演示以下 2 种多例模式的编写：
-+ 饿汉式，详细请参考源代码[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
++ 饿汉式，详细请参考源代码[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 + 懒汉式，详细请参考源代码[src/org/example/case02/Main.java](./src/org/example/case02/Main.java)
 ## 参考资料
 学习读物：

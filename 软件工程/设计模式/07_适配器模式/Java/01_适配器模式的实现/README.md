@@ -4,7 +4,7 @@
 + 对象适配器
 > 案例改编自 《设计模式之美》—— 王争 著 —— 第 7.3.2.2 节
 ## 对象适配器模式
-详细请参考源代码：[src/org/example/case01/Main.java](src/org/example/case01/Main.java)
+详细请参考源代码：[src/org/example/org.example.case01/Main.java](src/org/example/case01/Main.java)
 
 其 UML 类图如下所示：
 ```mermaid

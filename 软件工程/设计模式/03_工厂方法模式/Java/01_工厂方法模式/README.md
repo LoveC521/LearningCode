@@ -6,7 +6,7 @@
   + 类限定名
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 第 4.3 节
 ## 实现一
-工厂方法不包含类型控制参数：详细请参考源代码：[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
+工厂方法不包含类型控制参数：详细请参考源代码：[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 + 优点：实现简单。
 + 缺点：每一个产品类都要对应一个产品工厂，容易出现子类爆炸的问题。
 

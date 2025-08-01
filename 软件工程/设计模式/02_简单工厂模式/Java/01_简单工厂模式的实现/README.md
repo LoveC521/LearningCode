@@ -5,7 +5,7 @@
 
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 第 3.4 节
 ## 完整版实现
-完整版：详细请参考源代码：[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
+完整版：详细请参考源代码：[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 
 其 UML 类图如下所示：
 ```mermaid

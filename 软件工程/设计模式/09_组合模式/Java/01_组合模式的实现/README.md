@@ -5,7 +5,7 @@
 
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 第 11.3 节
 ## 透明组合模式的实现
-详细请参考源代码：[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
+详细请参考源代码：[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 
 其 UML 类图如下所示：
 ```mermaid

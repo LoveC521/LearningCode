@@ -5,7 +5,7 @@
 + 使用单件注册表
 > 案例改编自 《Java 设计模式》 —— 刘伟 著 —— 8.3 节。
 ## 方式一
-getInstance 中硬编码所有可能的单例类，详细请参考源代码[src/org/example/case01/Main.java](./src/org/example/case01/Main.java)
+getInstance 中硬编码所有可能的单例类，详细请参考源代码[src/org/example/org.example.case01/Main.java](./src/org/example/case01/Main.java)
 ## 方式二
 Java 中不能像 C++ 一样在编译时将子类的类型绑定到唯一实例上，这里使用 ServiceLoader 机制来模仿该行为。 
 详细请参考源代码[src/org/example/case02/Main.java](./src/org/example/case02/Main.java)
